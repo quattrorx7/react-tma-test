@@ -180,7 +180,7 @@ And `vite.config.ts` should have this content:
 
 ```ts
 export default defineConfig({
-  base: '/is-awesome/',
+  base: '/react-tma-test/',
   // ...
 });
 ```
